@@ -8,9 +8,10 @@
 }
 
 body {
-  background: #8758ff;
+  background: #8155d8;
   display: flex;
-  justify-content: center;
+  justify-content: left;
+  margin-left: 20px;
   align-items: center;
 }
 
@@ -55,6 +56,7 @@ h1 {
   background: #8758ff;
   color: #fff;
   border: none;
+  border-radius: 50%;
   padding: 0.55rem;
   cursor: pointer;
   
